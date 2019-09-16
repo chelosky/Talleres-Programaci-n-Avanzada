@@ -1,0 +1,14 @@
+Telefonia,24388530
+Electrohogar,18472850
+Computacion,36908700
+TV Audio,16469130
+Entretenimiento,9918820
+Muebles,14919180
+Dormitorio,10788890
+Ripley Home,85570
+Deporte,3488120
+Infatil,0
+Belleza,2207000
+Zapatos y Bolsos,1646980
+Moda,518520
+Total,139812290
